@@ -1,11 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        contents below...                        |
-// +-------------------------------------------------+
-
-
 #include <stdio.h>
 #include <string.h>
 
